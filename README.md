@@ -64,6 +64,6 @@ func main() {
 ```
 go run ./variables.go
 ```
-![414251325-9c46a535-5104-4b41-927c-1b24a764f990-1](https://github.com/user-attachments/assets/75b1bf7c-788e-466b-bd42-e3c50e26473c)
+<img src="https://github.com/user-attachments/assets/75b1bf7c-788e-466b-bd42-e3c50e26473c" widh="800px" height="600px"></img>
 
 
