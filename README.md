@@ -58,7 +58,6 @@ func main() {
 
 ### Run the application
 
-
 ```
 go run ./variables.go
 ```
@@ -89,5 +88,10 @@ func main() {
 ```
 Expected Output 2
 <img src="https://github.com/user-attachments/assets/2a63d3ae-9f2d-421b-94eb-83d3bd88c2a2" widh="800px" height="600px"></img>
+
+
+Expected Output 3
+<img src="https://github.com/user-attachments/assets/8fc4849b-18c7-42d4-ba45-2a34c8d0388d" widh="800px" height="600px"></img>
+
 
 
