@@ -56,14 +56,13 @@ func main() {
 }
 ```
 
-```
-
 ### Run the application
 
 
 ```
 go run ./variables.go
 ```
+Expected Output
 <img src="https://github.com/user-attachments/assets/75b1bf7c-788e-466b-bd42-e3c50e26473c" widh="800px" height="600px"></img>
 
 
