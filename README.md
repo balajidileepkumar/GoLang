@@ -65,6 +65,28 @@ go run ./variables.go
 Expected Output 1
 <img src="https://github.com/user-attachments/assets/75b1bf7c-788e-466b-bd42-e3c50e26473c" widh="800px" height="600px"></img>
 
+```
+package main
+
+import "fmt"
+
+func main() {
+	var inventor1 = "Ken Thompson" //Declares a string implicitly
+
+	inventor2 := "Rob Pike"	       //Short form of declaring a variable and initializing it with some value
+	var inventor3 string	       //Declares string variable
+	inventor3 = "Robert Griesemer" //initialize the string variable with a value
+
+	fmt.Println ("Golang inventors")
+	fmt.Println ( inventor1 )
+	fmt.Println ( inventor2 )
+	fmt.Println ( inventor3 )
+	
+	var firstnumber,secondnumber int = 10,20
+	fmt.Println("Value of first number is", firstnumber)
+	fmt.Println("Value of second number is", secondnumber)
+}
+```
 Expected Output 2
 <img src="https://github.com/user-attachments/assets/2a63d3ae-9f2d-421b-94eb-83d3bd88c2a2" widh="800px" height="600px"></img>
 
