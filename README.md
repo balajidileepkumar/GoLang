@@ -30,9 +30,7 @@ To run the program
 go run ./hello.go
 ```
 Expected output
-![image](https://github.com/user-attachments/assets/a35a084c-d005-49a2-992a-7a18191383c4 "Output")
-
-<img src="https://github.com/user-attachments/assets/a35a084c-d005-49a2-992a-7a18191383c4" width="400px" height="300px"></img>
+<img src="https://github.com/user-attachments/assets/a35a084c-d005-49a2-992a-7a18191383c4" width="800px" height="600px" alt="Output"></img>
 ## Lab - Variables in golang
 
 Create a file named variables.go with the below content
