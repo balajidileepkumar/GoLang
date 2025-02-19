@@ -120,5 +120,8 @@ func main() {
 Expected Output 3
 <img src="https://github.com/user-attachments/assets/8fc4849b-18c7-42d4-ba45-2a34c8d0388d" widh="800px" height="600px"></img>
 
+Expected Output 4
+<img src="https://github.com/user-attachments/assets/740c968a-49cb-444b-9d21-2e12971a9677" widh="800px" height="600px"></img>
+
 
 
