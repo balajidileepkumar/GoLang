@@ -12,3 +12,15 @@ Basics of Go Programming Language
 - golang avoid memory management issues we have in C/C++
 - golang support about 25 keywords
 </pre>
+
+## Lab - Running your first hello world go program
+Create a file named hello.go with the below content
+```
+package main 
+
+import "fmt"
+
+func main() {
+  fmt.Println( "Hello Golang !" )
+}
+```
