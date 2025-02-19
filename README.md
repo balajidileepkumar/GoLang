@@ -62,7 +62,10 @@ func main() {
 ```
 go run ./variables.go
 ```
-Expected Output
+Expected Output 1
 <img src="https://github.com/user-attachments/assets/75b1bf7c-788e-466b-bd42-e3c50e26473c" widh="800px" height="600px"></img>
+
+Expected Output 2
+<img src="https://github.com/user-attachments/assets/2a63d3ae-9f2d-421b-94eb-83d3bd88c2a2" widh="800px" height="600px"></img>
 
 
