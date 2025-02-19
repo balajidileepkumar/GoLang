@@ -53,3 +53,11 @@ func main() {
 }
 ```
 
+```
+
+Run the application
+```
+go run ./variables.go
+```
+
+
