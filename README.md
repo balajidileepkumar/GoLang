@@ -55,7 +55,8 @@ func main() {
 
 ```
 
-Run the application
+### Run the application
+
 ```
 go run ./variables.go
 ```
